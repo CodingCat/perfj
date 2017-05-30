@@ -237,7 +237,5 @@ public class PerfJ {
     if (args.length > 1) options = args[1];
     loadAgent(pid, options);
   }
-
-
 }
 
